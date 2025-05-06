@@ -1,3 +1,9 @@
+#   MP3 Key and BPM Tagger
+#
+#   Created by Patrick Elliott
+#
+
+
 import os
 import warnings
 from mutagen.easyid3 import EasyID3
